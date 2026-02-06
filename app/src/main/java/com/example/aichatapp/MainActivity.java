@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     GeminiApiService apiService;
 
     // 🔴 PUT YOUR REAL API KEY HERE (starts with AIza)
-    String API_KEY = "AIzaSyAl0AF4mzIWokMlqimLOQzNJusyJtUYMPM";
+    String API_KEY = "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
